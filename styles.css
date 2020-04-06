@@ -1,0 +1,28 @@
+body {
+  background-color: #fafafa !important;
+}
+
+.container {
+  background-color: #fafafa !important;
+}
+
+.navbar {
+  margin-bottom: 18px;
+}
+
+.carousel img {
+  height: 500px;
+}
+
+.carousel {
+  margin-bottom: 30px;
+}
+
+.nopadding {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.media {
+  background-color: white;
+}
