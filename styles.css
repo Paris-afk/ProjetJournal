@@ -26,3 +26,76 @@ body {
 .media {
   background-color: white;
 }
+
+#title{
+  font-family: 'Girassol', cursive;
+  text-align: center;
+  font-size: 70px;
+  letter-spacing: 15px;
+  padding: 5%;
+  color: white;
+}
+
+p{
+
+  font-family: 'Open Sans', sans-serif;
+}
+.dTitle{
+  background-color: slategrey;
+  border-radius: 5px;
+}
+
+footer{
+  margin-top: 10%;
+  color: white;
+  width: 100%;
+}
+
+footer h2,h3{
+  color: #fff;
+}
+
+footer h2 {
+  font-size: 18px;
+}
+
+.footer-top{
+  background-color: slategrey;
+  padding: 70px 50px;
+}
+
+.segment-one h3{
+  font-family: Courgette;
+  color: #fff;
+  letter-spacing: 3px;
+  margin: 10px 0;
+}
+
+.segment-two h2{
+  color: white;
+ 
+  text-transform: uppercase;
+}
+
+
+
+.segment-two ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+ 
+.segment-two ul li {
+  border-bottom: 1px solid rgba(255, 255, 255,0.3);
+  line-height: 40px;
+}
+
+.segment-two ul li a {
+  text-decoration: none;
+}
+
+.segment-three{
+  text-transform: uppercase;
+}
+
+
