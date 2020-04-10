@@ -118,5 +118,18 @@ footer h2 {
   
 }
 
+a>i {
+  color: white;
+  margin: 5px;
+  padding: 5px;
+  border: solid 1px white;
+  border-radius: 5px;
+}
 
+li>a{
+  color:white;
+}
 
+nav>div>p{
+  margin: 20px;
+}
