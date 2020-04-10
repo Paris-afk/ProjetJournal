@@ -1,5 +1,9 @@
 $(document).ready(function(){
+
     $('.ir-arriba').click(function(){
-        $('body , html').animate({
-            scrollTop: '0px'
-        } ,300)
+        $('body,html').animate({
+            scrollTop:0
+        } ,150);
+    })
+
+});
